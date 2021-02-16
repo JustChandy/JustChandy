@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandeep Philip Chandy
 - 👀 I’m interested in data science and machine learning algorithms
-- 🌱 I’m currently learning python , sql
+- 🌱 I’m currently learning clustering algorithms
 - 💞️ I’m looking to collaborate on business and freelance analytics projects
 - 📫 How to reach me - email : sandeepchandy16@gmail.com 
 
